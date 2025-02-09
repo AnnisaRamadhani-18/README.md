@@ -24,11 +24,9 @@ Windows: Menggunakan lisensi berbayar (proprietary license). Pengguna harus memb
 Singkatnya, Linux bebas dan bisa dimodifikasi, sedangkan Windows berbayar dan tertutup.
 # 2.Pengguna Server
 
-
-            
      
 
-
+                                                                        
 
 
 
